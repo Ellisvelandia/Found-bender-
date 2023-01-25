@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: url("https://media.wired.com/photos/593279fdedfced5820d10d68/master/w_2560%2Cc_limit/Futurama-and-Unrellius.jpg");
+  background-size: cover;
+  z-index: 0;
+}
+
+img {
+  width:55px;
+  position: absolute;
+  cursor: pointer;
+  z-index: 10;
+}
